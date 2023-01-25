@@ -25,12 +25,7 @@ jupyter notebook
 run imgae.ipnyb notebook
 ```
 
-5) To infer on a video 
-```
-run video.ipnyb notebook
-```
-
-6) To infer real-time on webcam
+5) To infer real-time on webcam
 ```
 run webcam.ipnyb notebook
 ```
