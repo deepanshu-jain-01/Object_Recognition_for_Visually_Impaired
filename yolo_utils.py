@@ -35,8 +35,6 @@ def generate_boxes_confidences_classids(outs, height, width, tconf):
 
     for out in outs:
         for detection in out:
-            #print (detection)
-            #a = input('GO!')
             
             # Get the scores, classid, and the confidence of the prediction
             scores = detection[5:]
